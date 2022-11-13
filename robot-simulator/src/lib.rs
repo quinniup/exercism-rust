@@ -10,9 +10,9 @@ pub enum Direction {
 }
 
 pub struct Robot {
-    pub x: i32,
-    pub y: i32,
-    pub d: Direction,
+    x: i32,
+    y: i32,
+    d: Direction,
 }
 
 impl Robot {
